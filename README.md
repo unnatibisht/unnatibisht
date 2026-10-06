@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi%2C+I'm+Unnati+%F0%9F%91%8B;Turning+Messy+Data+into+Clear+Stories;Learning%2C+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi%2C+I'm+Unnati+%F0%9F%91%8B;Turning+Messy+Data+into+Clear+Stories;Learning%2C+Building%2C+Evolving"/>
 
 <br/><br/>
 
