@@ -36,7 +36,7 @@ Role          : Data Analyst | Data Scientist
 Education     : B.Sc (Biotechnology), Banasthali University
 Location      : Haldwani, Uttarakhand, India
 
-Superpowers:
+Focus Areas:
   -> Turning messy, real-world data into decision-ready insights
   -> Building regression models and explaining them in plain English
   -> Designing Power BI dashboards that tell a story at a glance
@@ -57,8 +57,6 @@ Mission:
 📊 Skilled in **Python • SQL • Power BI • Pandas • Matplotlib • Seaborn**
 
 📈 Deepening my **stats & ML foundations** — regression, model workflows, feature preprocessing
-
-🎥 Teaching **Python, SQL & Power BI** on YouTube — **CodeMadeEasy with UNNATI**
 
 🚀 Building a portfolio of **EDA & regression projects**, one dataset at a time
 
@@ -140,24 +138,6 @@ Mission:
 | 📱 **Phone Addiction — Linear Regression** | Predicting an addiction score with OLS regression | Python • Statsmodels • OLS | ✅ Done |
 | 🎓 **Student Performance — OLS** | Predicting final scores from study & lifestyle habits | Python • OLS Regression | ✅ Done |
 | 🚗 **Used Car Price Dashboard** | Power BI dashboard on used-car pricing, inventory & brand trends | Power BI • DAX | ✅ Done |
-
----
-
-<div align="center">
-
-### 🎥 Teaching & Content
-
-Running **CodeMadeEasy with UNNATI** — teaching Python, SQL & Power BI to students and freshers, from a roadmap intro video to a growing Shorts series.
-
-<a href="https://www.youtube.com/@CodeMadeEasywithUNNATI">
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-</a>
-
-</div>
 
 ---
 
